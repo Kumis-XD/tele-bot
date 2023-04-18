@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumis-xd" alt="kumis-xd" /></a> </p>
 
-- 🔭 I’m currently working on [tele-bot](https://github.com/Kumis-XD/tele-bot)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
