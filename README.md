@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/114278627/232670607-27e34d85-84e3-42a8-8dfc-aa404a84bc00.png)
+
 # tele-bot
     Mengutip dari laman Telegram, bot adalah aplikasi pihak ketiga yang berjalan di dalam Telegram. Pengguna dapat berinteraksi dengan bot dengan mengirimi mereka pesan, perintah, dan permintaan apa pun.
 
