@@ -22,10 +22,6 @@ rl.question('Please typing the API telegram bot here : ', (token) => {
           inline_keyboard: [
             [
               {
-                text: '👋 Hai',
-                callback_data: 'Hai juga'
-              },
-              {
                 text: '🤖 Bot',
                 url: 'https://telegram.org/bot-faq'
               },
